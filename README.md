@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 I’m Henrik Martirosyan  
+🚀 Full Stack Developer | PHP | Laravel | Yii | React | Vue
 
-<!--
-**henrikmartirosyanest/henrikmartirosyanest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Developer with experience in building scalable web applications
+and clean, maintainable architectures.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+- Backend: PHP, Laravel, Yii
+- Frontend: React, Vue, JavaScript
+- Databases: MySQL, PostgreSQL, Redis
+- DevOps: Docker, Nginx, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I Do
+- Build scalable backend systems
+- Create dynamic frontend applications
+- Optimize performance and databases
+- Write clean, testable code
